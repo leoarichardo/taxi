@@ -1,0 +1,11 @@
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\bin\Debug\netcoreapp2.1\Taxi.deps.json
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\bin\Debug\netcoreapp2.1\Taxi.runtimeconfig.json
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\bin\Debug\netcoreapp2.1\Taxi.runtimeconfig.dev.json
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\bin\Debug\netcoreapp2.1\Taxi.dll
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\bin\Debug\netcoreapp2.1\Taxi.pdb
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\obj\Debug\netcoreapp2.1\Taxi.csprojAssemblyReference.cache
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\obj\Debug\netcoreapp2.1\Taxi.csproj.CoreCompileInputs.cache
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\obj\Debug\netcoreapp2.1\Taxi.AssemblyInfoInputs.cache
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\obj\Debug\netcoreapp2.1\Taxi.AssemblyInfo.cs
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\obj\Debug\netcoreapp2.1\Taxi.dll
+D:\TUGAS KULIAH\Pemrograman\Taxi\Taxi\Taxi\obj\Debug\netcoreapp2.1\Taxi.pdb
